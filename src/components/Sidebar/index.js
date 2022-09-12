@@ -31,7 +31,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://www.linkedin.com/in/%C3%BCnal-%C3%A7e%C4%9Fil-a5aab4236/"
+            href=""
             target="_blank"
             rel="noreferrer"
           >
@@ -40,7 +40,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://github.com/UnalCegil"
+            href=""
             target="_blank"
             rel="noreferrer"
           >
